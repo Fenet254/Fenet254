@@ -1,53 +1,74 @@
-# Hi, I'm Fenet Gizaw 👋
+# 👋 Hi, I'm Fenet Gizaw
 
-### 🌟 About Me
-I'm a passionate Full-Stack Developer from Ethiopia 🇪🇹 with a strong focus on AI & Machine Learning.  
-Currently, I'm a 4th year Software Engineering student at Jimma University, where I love building real-world solutions using cutting-edge web and AI technologies.
+## 🌟 About Me
 
----
+I'm a Full-Stack Web Developer and AI/ML Enthusiast 
 
-### 🚀 Tech Stack
+Currently, I'm a 4th year Software Engineering student at Jimma University, and I'm actively working with the Ethiopian Artificial Intelligence Institute, where I contribute to AI-based solutions using frameworks like PyTorch and Keras.
 
-**💻 Languages & Frameworks:**  
-HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; React &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Express.js &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; C++
-
-**🧠 AI & ML:**  
-Python &nbsp;|&nbsp; TensorFlow &nbsp;|&nbsp; scikit-learn &nbsp;|&nbsp; Numpy &nbsp;|&nbsp; Pandas
-
-**🔧 Tools & Platforms:**  
-Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code &nbsp;|&nbsp; Figma
+I love building real-world projects using modern technologies — from powerful web applications to intelligent systems — and I enjoy collaborating on impactful solutions for my community and beyond.
 
 ---
 
-### 🏆 Achievements
-- 🥇 **Full-Stack Development Certificate** – Simplilearn  
-- 📜 **4 Certificates** from Udacity (AI, Web Dev, and more)  
-- 🧠 Participant in university hackathons and coding projects  
-- 🎓 4th Year Software Engineering student @ Jimma University
+## 🚀 Tech Stack
+
+### 💻 Languages & Frameworks
+- HTML5 | CSS3 | JavaScript  
+- React.js | Node.js | Express.js  
+- MySQL | MongoDB | C++
+
+### 🧠 AI & Machine Learning
+- Python  
+- TensorFlow  
+- scikit-learn  
+- PyTorch  
+- Keras  
+- NumPy & Pandas
+
+### 🔧 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Figma (UI/UX Design)  
+- Google Colab  
+- Jupyter Notebook
 
 ---
 
-### 💼 Featured Projects
+## 🏆 Achievements
 
-| Project                  | Description                                             | Tech                    |
-|--------------------------|---------------------------------------------------------|-------------------------|
-| 🌦️ **AI Weather App**    | Real-time, location-aware, voice-enabled weather app    | React, OpenAI, Node.js  |
-| 📋 **Job Application Tracker** | Track jobs, interviews, and offers              | HTML, CSS, JS           |
-| 🌐 **Portfolio Website**  | Animated personal portfolio with all my works          | HTML, CSS, JavaScript   |
-
----
-
-### 📈 GitHub Stats
-
-![Fenet254's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical)
+- 🎓 4th Year Software Engineering student @ Jimma University  
+- 🥇 Full-Stack Development Certificate – *Simplilearn*  
+- 📜 4 Certificates from *Udacity* (Web Dev, AI, Cloud & More)  
+- 🧠 Participant in university hackathons and real-world projects  
+- 🤖 Currently working with the Ethiopian Artificial Intelligence Institute  
+- 🛠️ Builder of practical solutions combining web and AI technologies  
 
 ---
 
-### 📫 Connect with Me
+## 💼 Featured Projects
 
-- [LinkedIn](#) <!-- Add your actual LinkedIn URL here -->
-- 📧 Email: simbani011@gmail.com
+| Project                | Description                                                        | Tech Stack                  |
+|------------------------|--------------------------------------------------------------------|-----------------------------|
+| 🌦 AI Weather App   | Real-time, location-based, voice-enabled weather app               | React, Node.js, OpenAI      |
+| 📋 Job Tracker      | Helps users track job applications, interviews, and offers         | HTML, CSS, JavaScript       |
+| 🌐 Portfolio Website| Fully animated and responsive portfolio showcasing my work         | HTML, CSS, JavaScript       |
+| 🏛 Complaint System | University student complaint portal with admin panel & database    | React, Node.js, MySQL       |
 
 ---
 
-*“Building tomorrow's tech, one line of code at a time.”*
+## 📈 GitHub Stats
+
+[![Fenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical)](https://github.com/Fenet254)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/fenet-gizaw-b47003341)  
+- 📧 Email: simbani011@gmail.com  
+
+---
+
+> _“Building tomorrow’s tech, one line of code at a time.”_
+
+---
