@@ -38,7 +38,7 @@ I love building real-world projects using modern technologies — from powerful 
 
 - 🎓 4th Year Software Engineering student @ Jimma University  
 - 🥇 Full-Stack Development Certificate – *Simplilearn*  
-- 📜 4 Certificates from *Udacity* (Web Dev, AI, Cloud & More)  
+- 📜 4 Certificates from *Udacity* (Web Dev, AI, more)  
 - 🧠 Participant in university hackathons and real-world projects  
 - 🤖 Currently working with the Ethiopian Artificial Intelligence Institute  
 - 🛠️ Builder of practical solutions combining web and AI technologies  
