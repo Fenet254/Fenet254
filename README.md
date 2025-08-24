@@ -49,14 +49,17 @@ I love building real-world projects using modern technologies — from powerful 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenet254&layout=compact&theme=radical)
-
 ---
 
-<!-- Removed the redundant "Stats" summary card -->
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical)
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical)
-![Commits per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical)
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" alt="Stats" style="width: 45%; max-width: 500px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical" alt="Top Languages by Repo" style="width: 45%; max-width: 500px;" />
+</div>
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical" alt="Most Commit Language" style="width: 45%; max-width: 500px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" alt="Commits per Hour" style="width: 45%; max-width: 500px;" />
+</div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fenet254&theme=dracula)
 
