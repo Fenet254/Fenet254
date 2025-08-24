@@ -9,6 +9,8 @@ Currently, I'm a 4th year Software Engineering student at Jimma University, and 
 I love building real-world projects using modern technologies — from powerful web applications to intelligent systems — and I enjoy collaborating on impactful solutions for my community and beyond.
 ## 🚀 Tech Stack  
 
+## 🚀 Tech Stack  
+
 ### 💻 Languages & Frameworks  
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
@@ -29,7 +31,6 @@ I love building real-world projects using modern technologies — from powerful 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>  
-  <!-- scikit-learn & Keras don’t have official devicons, but you can use shields.io badges -->  
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  
 </p>  
@@ -42,6 +43,7 @@ I love building real-world projects using modern technologies — from powerful 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>  
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>  
 </p>  
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenet254&layout=compact&theme=radical)
 
