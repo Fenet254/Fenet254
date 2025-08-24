@@ -9,7 +9,7 @@ Currently, I'm a 4th year Software Engineering student at Jimma University, and 
 I love building real-world projects using modern technologies — from powerful web applications to intelligent systems — and I enjoy collaborating on impactful solutions for my community and beyond.
 ## 🚀 Tech Stack  
 
-## 🚀 Tech Stack  
+
 
 ### 💻 Languages & Frameworks  
 <p align="left">  
@@ -47,6 +47,8 @@ I love building real-world projects using modern technologies — from powerful 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenet254&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
@@ -56,7 +58,7 @@ I love building real-world projects using modern technologies — from powerful 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" />
+ 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" />
