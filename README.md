@@ -7,27 +7,42 @@ I'm a Full-Stack Web Developer and AI/ML Enthusiast
 Currently, I'm a 4th year Software Engineering student at Jimma University, and I'm actively working with the Ethiopian Artificial Intelligence Institute, where I contribute to AI-based solutions using frameworks like PyTorch and Keras.
 
 I love building real-world projects using modern technologies — from powerful web applications to intelligent systems — and I enjoy collaborating on impactful solutions for my community and beyond.
-## 🚀 Tech Stack
+## 🚀 Tech Stack  
 
-### 💻 Languages & Frameworks
-- HTML5 | CSS3 | JavaScript  
-- React.js | Node.js | Express.js  
-- MySQL | MongoDB | C++
+### 💻 Languages & Frameworks  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
+</p>  
 
-### AI & Machine Learning
-- Python  
-- TensorFlow  
-- scikit-learn  
-- PyTorch  
-- Keras  
-- NumPy & Pandas
+### 🤖 AI & Machine Learning  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>  
+  <!-- scikit-learn & Keras don’t have official devicons, but you can use shields.io badges -->  
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  
+</p>  
 
-###  Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Figma (UI/UX Design)  
-- Google Colab  
-- Jupyter Notebook
+### 🛠 Tools & Platforms  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>  
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>  
+</p>  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenet254&layout=compact&theme=radical)
 
 ## GitHub Stats
