@@ -46,7 +46,6 @@ I love building real-world projects using modern technologies — from powerful 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenet254&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" />
 </p>
 
