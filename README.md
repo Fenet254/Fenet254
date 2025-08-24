@@ -45,11 +45,14 @@ I love building real-world projects using modern technologies — from powerful 
 </p>  
 <div align="center">
 
-[![Fenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical)](https://github.com/Fenet254)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical)
 
----
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="Fenet's GitHub stats" style="width: 48%; max-width: 500px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 48%; max-width: 500px;" />
+</div>
+
+
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" alt="Stats" style="width: 45%; max-width: 500px;" />
