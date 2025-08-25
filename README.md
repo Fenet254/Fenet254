@@ -1,44 +1,33 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Fenet Gizaw</h1>
+
 <h3 align="center">💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student</h3>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/Fenet254">
     <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Fenet254?tab=stars">
     <img src="https://img.shields.io/github/stars/Fenet254?label=Stars&style=flat&color=yellow" alt="Total Stars"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Fenet254?tab=followers">
     <img src="https://img.shields.io/github/followers/Fenet254?label=Followers&style=flat&color=green" alt="Followers"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wakatime.com/@Fenet254">
     <img src="https://wakatime.com/badge/user/Fenet254.svg" alt="Wakatime"/>
   </a>
 </p>
 
----
+<br>
+<br>
+<br>
 
-### 🚀 Quick Facts
-- 🎓 4th Year **Software Engineering Student** @ Jimma University  
-- 🔬 Researcher @ **Ethiopian Artificial Intelligence Institute**  
-- 🛠 Skilled in **Python, PyTorch, Keras, React, Node.js**  
-- 🌍 Passionate about **AI for Social Good** & **real-world applications**  
-- ⚡ Fun fact: I love solving challenges on **LeetCode & HackerRank**  
-
----
-
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/fenet-gizaw-b47003341" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:simbani011@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/Fenet254" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
-  <a href="https://t.me/efjih" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram"/></a>
-  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
-</p>
-
-
-
+<br>
 
 ## 🚀 Tech Stack  
 
@@ -54,7 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
 </p>  
-
+<br>
+<br>
 ### 🤖 AI & Machine Learning  
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
@@ -65,7 +55,8 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  
 </p>  
-
+<br>
+<br>
 ### 🛠 Tools & Platforms  
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
@@ -75,7 +66,8 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>  
 </p>  
 
----
+<br>
+<br>
 
 <div align="center" style="margin: 40px 0;">
 
@@ -100,7 +92,8 @@
 
 </div>
 
----
+<br>
+<br>
 
 ## 📫 Connect with Me
 
