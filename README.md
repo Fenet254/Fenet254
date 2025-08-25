@@ -1,7 +1,7 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fenet254/Fenet254/main/banner.png" alt="Fenet Gizaw Banner" />
 </p>
+
 
 <!-- Greeting with animated waving hand -->
 <h1 align="center">
