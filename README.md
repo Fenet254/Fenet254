@@ -1,27 +1,21 @@
-<!-- Profile Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fenet254/Fenet254/main/banner.png" alt="Fenet Gizaw Banner" />
 </p>
 
-<!-- Title -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Fenet Gizaw</span></h1>
 
 <h3 align="center">
  💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student
 </h3>
 
----
-
-<!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/stars/Fenet254?label=Stars&logo=github&color=yellow&style=for-the-badge" alt="Stars"/>
   <img src="https://img.shields.io/github/followers/Fenet254?label=Followers&logo=github&style=for-the-badge&color=brightgreen" alt="Followers"/>
-  <img src="https://wakatime.com/badge/user/Fenet254.svg?style=for-the-badge" alt="Wakatime"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Web+Apps;Solving+AI+Problems;Open-Source+Contributor;Always+Learning" alt="Typing SVG" />
 </p>
 
 <br>
@@ -62,20 +56,19 @@
 </p>
 <br>
 <br>
-<div align="center" style="margin: 40px 0;">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;  margin-bottom: 30px;">
+<div align="center" >
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; ">
     <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="stats" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;  margin-bottom: 30px;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" alt="Stats" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical" alt="Top Languages by Repo" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 60px;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; ">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical" alt="Most Commit Language" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" alt="Commits per Hour" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
-
 <br>
 <br>
 <br>
@@ -94,7 +87,7 @@
 
 
 <p align="center">## 📫 Connect with Me</p>
-
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/fenet-gizaw-b47003341" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
