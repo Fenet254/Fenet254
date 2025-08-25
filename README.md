@@ -1,32 +1,47 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Fenet Gizaw</h1>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="./banner.png" alt="Fenet Gizaw Banner" />
+</p>
 
-<h3 align="center">💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student</h3>
+<!-- Title -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Fenet Gizaw</span></h1>
 
-<br>
+<h3 align="center">
+ 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student
+</h3>
 
+---
+
+<!-- Badges -->
 <p align="center">
   <a href="https://github.com/Fenet254">
-    <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Fenet254?tab=stars">
-    <img src="https://img.shields.io/github/stars/Fenet254?label=Stars&style=flat&color=yellow" alt="Total Stars"/>
+    <img src="https://img.shields.io/github/stars/Fenet254?label=Stars&logo=github&color=yellow&style=for-the-badge" alt="Stars"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Fenet254?tab=followers">
-    <img src="https://img.shields.io/github/followers/Fenet254?label=Followers&style=flat&color=green" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Fenet254?label=Followers&logo=github&style=for-the-badge&color=brightgreen" alt="Followers"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wakatime.com/@Fenet254">
-    <img src="https://wakatime.com/badge/user/Fenet254.svg" alt="Wakatime"/>
+    <img src="https://wakatime.com/badge/user/Fenet254.svg?style=for-the-badge" alt="Wakatime"/>
   </a>
 </p>
 
-<br>
-<br>
-<br>
+---
 
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
+  </a>
+</p>
+
+---
+
+<br>
+<br>
+<br>
 <br>
 
  <p align="center">🚀 Tech Stack  </p>
@@ -44,7 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
 </p>  
 <br>
-<br>
 <p align="center">### 🤖 AI & Machine Learning  </p>
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
@@ -56,18 +70,17 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  
 <p align="center">### 🛠 Tools & Platforms  </p>
 <br>
-<br>
-<p align="center">  
+<p align="center"> 
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>  
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>  
-</p>  
+</p>
 <br>
 <br>
 <div align="center" style="margin: 40px 0;">
-
   <div style="display: flex; justify-content: center; flex-wrap: wrap;  margin-bottom: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="stats" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 350px; height: 220px; object-fit: contain;" />
