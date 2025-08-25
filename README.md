@@ -124,10 +124,5 @@ I love building real-world projects using modern technologies — from powerful 
   <a href="https://discord.com/users/scat_tuni" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord--v2.png" width="40" height="40" alt="Discord"/>
 </a>
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="40" height="40" alt="Telegram"/>
-  </a>
-  <a href="https://www.youtube.com/c/yourchannel" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" height="40" alt="YouTube"/>
-  </a>
+
 </p>
