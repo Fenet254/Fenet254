@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Fenet Gizaw Banner" />
+  <img src="https://raw.githubusercontent.com/Fenet254/Fenet254/main/banner.png" alt="Fenet Gizaw Banner" />
 </p>
 
 <!-- Title -->
@@ -10,30 +10,23 @@
  💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student
 </h3>
 
+---
+
+<!-- Badges -->
 <p align="center">
-  <a href="https://github.com/Fenet254">
-    <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Fenet254?tab=stars">
-    <img src="https://img.shields.io/github/stars/Fenet254?label=Stars&logo=github&color=yellow&style=for-the-badge" alt="Stars"/>
-  </a>
-  <a href="https://github.com/Fenet254?tab=followers">
-    <img src="https://img.shields.io/github/followers/Fenet254?label=Followers&logo=github&style=for-the-badge&color=brightgreen" alt="Followers"/>
-  </a>
-  <a href="https://wakatime.com/@Fenet254">
-    <img src="https://wakatime.com/badge/user/Fenet254.svg?style=for-the-badge" alt="Wakatime"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/Fenet254?label=Stars&logo=github&color=yellow&style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/Fenet254?label=Followers&logo=github&style=for-the-badge&color=brightgreen" alt="Followers"/>
+  <img src="https://wakatime.com/badge/user/Fenet254.svg?style=for-the-badge" alt="Wakatime"/>
 </p>
 
 ---
 
 <!-- GitHub Profile Trophy -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
-<br>
+
 <br>
 <br>
 <br>
