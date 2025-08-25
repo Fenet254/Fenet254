@@ -33,14 +33,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
   </a>
 </p>
-
---
----<!-- Fun Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
-</p>
--
-
 <br>
 <br>
 <br>
@@ -49,7 +41,7 @@
  🚀 Tech Stack 
 
 ### 💻 Languages & Frameworks 
-<p align="center">  
+<p>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
@@ -62,7 +54,7 @@
 </p>  
 <br>
 ### 🤖 AI & Machine Learning  
-<p align="center">  
+<p>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>  
@@ -72,7 +64,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  
 ### 🛠 Tools & Platforms  
 <br>
-<p align="center"> 
+<p> 
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
