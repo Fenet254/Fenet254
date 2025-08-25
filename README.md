@@ -1,12 +1,47 @@
-# 👋 Hi, I'm Fenet Gizaw
+<div align="center" style="margin: 24px 0;">
+  <div style="
+      max-width: 980px;
+      text-align: left;
+      background: linear-gradient(135deg, rgba(28,28,30,0.88), rgba(20,20,22,0.88));
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 18px;
+      padding: 22px 24px;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.25);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      color: #eaeaea;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji';
+    ">
+    
+  
+    <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+      <div style="font-size:28px; line-height:1.2;">👋 <span style="font-weight:700;">Hi, I'm Fenet Gizaw</span></div>
+      <div style="
+        display:inline-flex; gap:8px; flex-wrap:wrap; margin-left:auto;
+      ">
+        <span style="font-size:12px; padding:6px 10px; border-radius:999px; background:#1f6feb; color:#fff; border:1px solid rgba(255,255,255,0.12);">Full-Stack Dev</span>
+        <span style="font-size:12px; padding:6px 10px; border-radius:999px; background:#7c3aed; color:#fff; border:1px solid rgba(255,255,255,0.12);">AI/ML Enthusiast</span>
+      </div>
+    </div>
 
-## About Me
+    <hr style="border:none; border-top:1px solid rgba(255,255,255,0.08); margin:14px 0 16px;">
 
-I'm a Full-Stack Web Developer and AI/ML Enthusiast 
-
-Currently, I'm a 4th year Software Engineering student at Jimma University, and I'm actively working with the Ethiopian Artificial Intelligence Institute, where I contribute to AI-based solutions using frameworks like PyTorch and Keras.
-
-I love building real-world projects using modern technologies — from powerful web applications to intelligent systems — and I enjoy collaborating on impactful solutions for my community and beyond.
+    <!-- About -->
+    <div style="font-size:15.5px; line-height:1.7; color:#e6e6e6;">
+      <div style="font-weight:700; letter-spacing:.2px; margin-bottom:6px;">About Me</div>
+      <p style="margin:0 0 10px;">
+        I'm a <strong>Full-Stack Web Developer</strong> and <strong>AI/ML Enthusiast</strong>.
+      </p>
+      <p style="margin:0 0 10px;">
+        Currently, I'm a <strong>4th year Software Engineering student at Jimma University</strong>, and I'm actively working with the
+        <strong>Ethiopian Artificial Intelligence Institute</strong>, where I contribute to AI-based solutions using frameworks like
+        <strong>PyTorch</strong> and <strong>Keras</strong>.
+      </p>
+      <p style="margin:0;">
+        I love building real-world projects using modern technologies — from powerful web applications to intelligent systems — and I enjoy
+        collaborating on impactful solutions for my community and beyond.
+      </p>
+    </div>
 ## 🚀 Tech Stack  
 
 
