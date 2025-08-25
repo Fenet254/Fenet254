@@ -121,9 +121,9 @@ I love building real-world projects using modern technologies — from powerful 
 <a href="https://www.producthunt.com/@scat_tuni" target="_blank">
     <img src="https://cdn.simpleicons.org/producthunt/DA552F" width="40" height="40" alt="Product Hunt"/>
 </a>
-  <a href="https://discord.gg/yourinvite" target="_blank">
+  <a href="https://discord.com/users/scat_tuni" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord--v2.png" width="40" height="40" alt="Discord"/>
-  </a>
+</a>
   <a href="https://t.me/yourusername" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="40" height="40" alt="Telegram"/>
   </a>
