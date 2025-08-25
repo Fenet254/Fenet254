@@ -118,9 +118,9 @@ I love building real-world projects using modern technologies — from powerful 
  <a href="https://dribbble.com/simbani011" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/dribbble.png" width="40" height="40" alt="Dribbble"/>
 </a>
-  <a href="https://www.producthunt.com/@yourusername" target="_blank">
-    <img src="https://img.icons8.com/doodle/48/000000/product-hunt.png" width="40" height="40" alt="Product Hunt"/>
-  </a>
+<a href="https://www.producthunt.com/@scat_tuni" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/product-hunt.png" width="40" height="40" alt="Product Hunt"/>
+</a>
   <a href="https://discord.gg/yourinvite" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord--v2.png" width="40" height="40" alt="Discord"/>
   </a>
