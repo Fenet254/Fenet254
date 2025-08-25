@@ -69,9 +69,65 @@ I love building real-world projects using modern technologies — from powerful 
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/fenet-gizaw-b47003341)  
-- 📧 Email: simbani011@gmail.com  
-
----
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/fenet-gizaw-b47003341" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:simbani011@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Fenet254" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/yourusername" target="_blank">
+    <img src="https://img.icons8.com/windows/32/000000/dev.png" width="40" height="40" alt="Dev.to"/>
+  </a>
+  <a href="https://stackoverflow.com/users/youruserid" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="40" height="40" alt="Stack Overflow"/>
+  </a>
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="40" height="40" alt="Medium"/>
+  </a>
+  <a href="https://leetcode.com/yourusername/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" height="40" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40" height="40" alt="HackerRank"/>
+  </a>
+  <a href="https://www.kaggle.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/windows/32/000000/kaggle.png" width="40" height="40" alt="Kaggle"/>
+  </a>
+  <a href="https://www.reddit.com/user/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/reddit.png" width="40" height="40" alt="Reddit"/>
+  </a>
+  <a href="https://devpost.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-devpost-an-online-hackathon-community-for-coders-to-compete-and-collaborate-logo-shadow-tal-revivo.png" width="40" height="40" alt="Devpost"/>
+  </a>
+  <a href="https://codepen.io/yourusername" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/codepen.png" width="40" height="40" alt="CodePen"/>
+  </a>
+  <a href="https://www.freecodecamp.org/yourusername" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-freecodecamp-org-a-nonprofit-organization-that-consists-of-an-interactive-learning-web-platform-logo-shadow-tal-revivo.png" width="40" height="40" alt="freeCodeCamp"/>
+  </a>
+  <a href="https://www.behance.net/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/behance.png" width="40" height="40" alt="Behance"/>
+  </a>
+  <a href="https://dribbble.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/dribbble.png" width="40" height="40" alt="Dribbble"/>
+  </a>
+  <a href="https://www.producthunt.com/@yourusername" target="_blank">
+    <img src="https://img.icons8.com/doodle/48/000000/product-hunt.png" width="40" height="40" alt="Product Hunt"/>
+  </a>
+  <a href="https://discord.gg/yourinvite" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/discord--v2.png" width="40" height="40" alt="Discord"/>
+  </a>
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="40" height="40" alt="Telegram"/>
+  </a>
+  <a href="https://www.youtube.com/c/yourchannel" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40" height="40" alt="YouTube"/>
+  </a>
+</p>
