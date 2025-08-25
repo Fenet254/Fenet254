@@ -23,10 +23,12 @@
 
 ---
 
+
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=radical&margin-w=10&margin-h=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Fenet's GitHub Trophies"/>
 </p>
+
 
 
 ## 🚀 Tech Stack  
