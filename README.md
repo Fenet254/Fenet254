@@ -110,7 +110,7 @@ I love building real-world projects using modern technologies — from powerful 
     <img src="https://img.icons8.com/ios/50/000000/codepen.png" width="40" height="40" alt="CodePen"/>
 </a>
 <a href="https://www.freecodecamp.org/tuni_" target="_blank">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-free-code-camp-computer-programming-flaticons-lineal-color-flat-icons.png" width="40" height="40" alt="freeCodeCamp"/>
+    <img src="https://cdn.simpleicons.org/freecodecamp/0A0A23" width="40" height="40" alt="freeCodeCamp"/>
 </a>
   <a href="https://www.behance.net/yourusername" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/behance.png" width="40" height="40" alt="Behance"/>
