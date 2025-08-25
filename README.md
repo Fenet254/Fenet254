@@ -91,9 +91,9 @@ I love building real-world projects using modern technologies — from powerful 
 <a href="https://medium.com/@scat_" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="40" height="40" alt="Medium"/>
 </a>
-  <a href="https://leetcode.com/yourusername/" target="_blank">
+<a href="https://leetcode.com/u/tuni_scat/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" height="40" alt="LeetCode"/>
-  </a>
+</a>
   <a href="https://www.hackerrank.com/yourusername" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40" height="40" alt="HackerRank"/>
   </a>
