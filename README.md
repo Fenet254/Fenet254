@@ -103,9 +103,9 @@ I love building real-world projects using modern technologies — from powerful 
  <a href="https://www.reddit.com/user/Jolly_Smoke_7671" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/reddit.png" width="40" height="40" alt="Reddit"/>
 </a>
-  <a href="https://devpost.com/yourusername" target="_blank">
+<a href="https://devpost.com/simbani011?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-devpost-an-online-hackathon-community-for-coders-to-compete-and-collaborate-logo-shadow-tal-revivo.png" width="40" height="40" alt="Devpost"/>
-  </a>
+</a>
   <a href="https://codepen.io/yourusername" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/codepen.png" width="40" height="40" alt="CodePen"/>
   </a>
