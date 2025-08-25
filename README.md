@@ -54,10 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>  
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  
-</p>  
-<br>
-<br>
 <p align="center">### 🛠 Tools & Platforms  </p>
+<br>
+<br>
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
@@ -65,32 +64,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>  
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>  
 </p>  
-
 <br>
 <br>
-
 <div align="center" style="margin: 40px 0;">
 
   <div style="display: flex; justify-content: center; flex-wrap: wrap;  margin-bottom: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="stats" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
-<br>
-<br>
-<br>
-<br>
   <div style="display: flex; justify-content: center; flex-wrap: wrap;  margin-bottom: 30px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" alt="Stats" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical" alt="Top Languages by Repo" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
-<br>
-<br>
-<br>
-<br>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 60px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical" alt="Most Commit Language" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" alt="Commits per Hour" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -100,7 +92,9 @@
   </div>
 
 </div>
-
+<br>
+<br>
+<br>
 <br>
 <br>
 
