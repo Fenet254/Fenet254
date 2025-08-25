@@ -75,17 +75,26 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="stats" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
-
+<br>
+<br>
+<br>
+<br>
   <div style="display: flex; justify-content: center; flex-wrap: wrap;  margin-bottom: 30px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" alt="Stats" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical" alt="Top Languages by Repo" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
-
+<br>
+<br>
+<br>
+<br>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 60px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical" alt="Most Commit Language" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" alt="Commits per Hour" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
-
+<br>
+<br>
+<br>
+<br>
   <div style="margin-top: 8000px; margin-bottom: 40px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fenet254&theme=github-dark" alt="Activity Graph" style="max-width: 100%; border-radius: 10px;" />
   </div>
@@ -95,9 +104,10 @@
 <br>
 <br>
 
-## 📫 Connect with Me
 
-<p align="left">
+<p align="center">## 📫 Connect with Me</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/fenet-gizaw-b47003341" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
