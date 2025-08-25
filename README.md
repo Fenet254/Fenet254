@@ -82,8 +82,8 @@ I love building real-world projects using modern technologies — from powerful 
 <a href="https://twitter.com/Fenet_GizaW" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40" alt="Twitter"/>
 </a>
- <a href="https://dev.to/scat_tuni" target="_blank">
-    <img src="https://img.icons8.com/windows/32/000000/dev.png" width="40" height="40" alt="Dev.to"/>
+<a href="https://dev.to/scat_tuni" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/devdotto.svg" width="40" height="40" alt="Dev.to"/>
 </a>
 <a href="https://stackoverflow.com/users/31347350/fenet-gizaw" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="40" height="40" alt="Stack Overflow"/>
