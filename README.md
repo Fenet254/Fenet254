@@ -1,33 +1,42 @@
+<!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Fenet Gizaw</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student</h3>
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=flat" alt="Fenet254" />
-  <img src="https://img.shields.io/github/stars/Fenet254?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow" alt="stars"/>
-  <img src="https://img.shields.io/github/followers/Fenet254?style=flat&color=green" alt="followers"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;Open-Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <a href="https://github.com/Fenet254">
+    <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Fenet254?tab=stars">
+    <img src="https://img.shields.io/github/stars/Fenet254?label=Stars&style=flat&color=yellow" alt="Total Stars"/>
+  </a>
+  <a href="https://github.com/Fenet254?tab=followers">
+    <img src="https://img.shields.io/github/followers/Fenet254?label=Followers&style=flat&color=green" alt="Followers"/>
+  </a>
+  <a href="https://wakatime.com/@Fenet254">
+    <img src="https://wakatime.com/badge/user/Fenet254.svg" alt="Wakatime"/>
   </a>
 </p>
 
 ---
 
-### 🌟 About Me  
-🎓 4th year Software Engineering student at **Jimma University**  
-🤖 Contributor at **Ethiopian Artificial Intelligence Institute** (PyTorch & Keras projects)  
-💡 Passionate about **building real-world applications** & **AI-powered solutions**  
-🌍 Open to **collaborations, research, and impactful projects**  
+### 🚀 Quick Facts
+- 🎓 4th Year **Software Engineering Student** @ Jimma University  
+- 🔬 Researcher @ **Ethiopian Artificial Intelligence Institute**  
+- 🛠 Skilled in **Python, PyTorch, Keras, React, Node.js**  
+- 🌍 Passionate about **AI for Social Good** & **real-world applications**  
+- ⚡ Fun fact: I love solving challenges on **LeetCode & HackerRank**  
 
 ---
 
-
-### 🏆 GitHub Trophies  
+### 🔗 Connect With Me
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Fenet's GitHub Trophies"/>
+  <a href="https://www.linkedin.com/in/fenet-gizaw-b47003341" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:simbani011@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/Fenet254" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
+  <a href="https://t.me/efjih" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram"/></a>
+  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
 </p>
+
 
 
 
