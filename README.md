@@ -16,16 +16,12 @@
   <img src="https://img.shields.io/github/followers/Fenet254?label=Followers&logo=github&style=for-the-badge&color=brightgreen" alt="Followers"/>
 </p>
 
-<img src="https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Currently-Learning-36BCF7?style=for-the-badge"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Web+Apps;Solving+AI+Problems;Open-Source+Contributor;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Web+Apps;Solving+AI+Problems;Open-Source+Contributor;" alt="Typing SVG" />
 </p>
 
 <br>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=radical&margin-w=15&margin-h=15" />
 
  🚀 Tech Stack 
 
