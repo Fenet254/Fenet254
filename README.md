@@ -10,8 +10,6 @@
  💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student
 </h3>
 
----
-
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/Fenet254">
@@ -37,7 +35,12 @@
   </a>
 </p>
 
----
+--
+---<!-- Fun Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
+-
 
 <br>
 <br>
