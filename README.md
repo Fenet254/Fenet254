@@ -29,10 +29,10 @@
 
 <br>
 
-## 🚀 Tech Stack  
+ <p align="center">🚀 Tech Stack  </p>
 
-### 💻 Languages & Frameworks  
-<p align="left">  
+<p align="center">### 💻 Languages & Frameworks </p> 
+<p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
@@ -45,8 +45,8 @@
 </p>  
 <br>
 <br>
-### 🤖 AI & Machine Learning  
-<p align="left">  
+<p align="center">### 🤖 AI & Machine Learning  </p>
+<p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>  
@@ -57,8 +57,8 @@
 </p>  
 <br>
 <br>
-### 🛠 Tools & Platforms  
-<p align="left">  
+<p align="center">### 🛠 Tools & Platforms  </p>
+<p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  
