@@ -20,9 +20,6 @@
   <img src="https://wakatime.com/badge/user/Fenet254.svg?style=for-the-badge" alt="Wakatime"/>
 </p>
 
----
-
-<!-- GitHub Profile Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
@@ -56,9 +53,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  
 ### 🛠 Tools & Platforms  
-<br>
 <p> 
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  
@@ -80,8 +75,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical" alt="Most Commit Language" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" alt="Commits per Hour" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
-<br>
-<br>
+
 <br>
 <br>
 <br>
