@@ -88,9 +88,9 @@ I love building real-world projects using modern technologies — from powerful 
 <a href="https://stackoverflow.com/users/31347350/fenet-gizaw" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="40" height="40" alt="Stack Overflow"/>
 </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
+<a href="https://medium.com/@scat_" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="40" height="40" alt="Medium"/>
-  </a>
+</a>
   <a href="https://leetcode.com/yourusername/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" height="40" alt="LeetCode"/>
   </a>
