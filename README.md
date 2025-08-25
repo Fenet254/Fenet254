@@ -10,7 +10,6 @@
  💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student
 </h3>
 
-<!-- Badges -->
 <p align="center">
   <a href="https://github.com/Fenet254">
     <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -47,9 +46,9 @@
 <br>
 <br>
 
- <p align="center">🚀 Tech Stack  </p>
+ 🚀 Tech Stack 
 
-<p align="center">### 💻 Languages & Frameworks </p> 
+### 💻 Languages & Frameworks 
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
@@ -62,7 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
 </p>  
 <br>
-<p align="center">### 🤖 AI & Machine Learning  </p>
+### 🤖 AI & Machine Learning  
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>  
@@ -71,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>  
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>  
-<p align="center">### 🛠 Tools & Platforms  </p>
+### 🛠 Tools & Platforms  
 <br>
 <p align="center"> 
   <br>
