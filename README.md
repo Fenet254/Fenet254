@@ -1,17 +1,33 @@
-<!-- Profile Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=200&section=header&text=Hi%20👋,%20I'm%20Fenet%20Gizaw&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+<h1 align="center">👋 Hi, I'm Fenet Gizaw</h1>
+<h3 align="center">🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student</h3>
 
-  <h3 align="center">💻 Software Engineering Student | 🤖 AI & ML Enthusiast | 🚀 Web & Mobile Developer</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=flat" alt="Fenet254" />
+  <img src="https://img.shields.io/github/stars/Fenet254?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow" alt="stars"/>
+  <img src="https://img.shields.io/github/followers/Fenet254?style=flat&color=green" alt="followers"/>
+</p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
-    <img src="https://img.shields.io/github/followers/Fenet254?label=Followers&style=social" alt="GitHub followers"/>
-    <img src="https://img.shields.io/github/stars/Fenet254?label=Stars&style=social" alt="GitHub stars"/>
-  </p>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;Open-Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
+
+### 🌟 About Me  
+🎓 4th year Software Engineering student at **Jimma University**  
+🤖 Contributor at **Ethiopian Artificial Intelligence Institute** (PyTorch & Keras projects)  
+💡 Passionate about **building real-world applications** & **AI-powered solutions**  
+🌍 Open to **collaborations, research, and impactful projects**  
+
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=radical&margin-w=10&margin-h=10" alt="trophies"/>
+</p>
+
 
 ## 🚀 Tech Stack  
 
