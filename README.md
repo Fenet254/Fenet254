@@ -79,15 +79,15 @@ I love building real-world projects using modern technologies — from powerful 
   <a href="https://github.com/Fenet254" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" width="40" height="40" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+<a href="https://twitter.com/Fenet_GizaW" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/yourusername" target="_blank">
+</a>
+ <a href="https://dev.to/scat_tuni" target="_blank">
     <img src="https://img.icons8.com/windows/32/000000/dev.png" width="40" height="40" alt="Dev.to"/>
-  </a>
-  <a href="https://stackoverflow.com/users/youruserid" target="_blank">
+</a>
+<a href="https://stackoverflow.com/users/1800840/fenet-gizaw" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="40" height="40" alt="Stack Overflow"/>
-  </a>
+</a>
   <a href="https://medium.com/@yourusername" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="40" height="40" alt="Medium"/>
   </a>
