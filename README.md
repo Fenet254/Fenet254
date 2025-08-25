@@ -109,9 +109,9 @@ I love building real-world projects using modern technologies — from powerful 
  <a href="https://codepen.io/Tina-T-the-sans" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/codepen.png" width="40" height="40" alt="CodePen"/>
 </a>
-  <a href="https://www.freecodecamp.org/yourusername" target="_blank">
+<a href="https://www.freecodecamp.org/tuni_" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-freecodecamp-org-a-nonprofit-organization-that-consists-of-an-interactive-learning-web-platform-logo-shadow-tal-revivo.png" width="40" height="40" alt="freeCodeCamp"/>
-  </a>
+</a>
   <a href="https://www.behance.net/yourusername" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/behance.png" width="40" height="40" alt="Behance"/>
   </a>
