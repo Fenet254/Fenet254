@@ -115,9 +115,9 @@ I love building real-world projects using modern technologies — from powerful 
 <a href="https://www.behance.net/tina-t-the-sans" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/behance.png" width="40" height="40" alt="Behance"/>
 </a>
-  <a href="https://dribbble.com/yourusername" target="_blank">
+ <a href="https://dribbble.com/simbani011" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/dribbble.png" width="40" height="40" alt="Dribbble"/>
-  </a>
+</a>
   <a href="https://www.producthunt.com/@yourusername" target="_blank">
     <img src="https://img.icons8.com/doodle/48/000000/product-hunt.png" width="40" height="40" alt="Product Hunt"/>
   </a>
