@@ -112,9 +112,9 @@ I love building real-world projects using modern technologies — from powerful 
 <a href="https://www.freecodecamp.org/tuni_" target="_blank">
     <img src="https://cdn.simpleicons.org/freecodecamp/0A0A23" width="40" height="40" alt="freeCodeCamp"/>
 </a>
-  <a href="https://www.behance.net/yourusername" target="_blank">
+<a href="https://www.behance.net/tina-t-the-sans" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/behance.png" width="40" height="40" alt="Behance"/>
-  </a>
+</a>
   <a href="https://dribbble.com/yourusername" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/dribbble.png" width="40" height="40" alt="Dribbble"/>
   </a>
