@@ -82,13 +82,31 @@
 <br><br>
 <br>
 <br>
+<br>
 <p align="center">
   <b>📫 Connect with Me</b><br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=2500&pause=500&color=4F46E5&width=500&lines=LinkedIn:+fenet-gizaw-b47003341;Gmail:+simbani011@gmail.com;GitHub:+Fenet254;Twitter:+Fenet_GizaW;Dev.to:+scat_tuni;Stack+Overflow:+fenet-gizaw;Medium:+scat_;LeetCode:+tuni_scat;HackerRank:+simbani011;Kaggle:+simbani;Reddit:+Jolly_Smoke_7671;Devpost:+simbani011;CodePen:+Tina-T-the-sans;freeCodeCamp:+tuni_;Behance:+tina-t-the-sans;Dribbble:+simbani011;ProductHunt:+scat_tuni;Discord:+scat_tuni" alt="Typing usernames one by one" />
+  <!-- Clickable animated badges cycling through your apps -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-fenet--gizaw--b47003341-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fenet-gizaw-b47003341)
+  [![Gmail](https://img.shields.io/badge/Gmail-simbani011@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:simbani011@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Fenet254-black?style=for-the-badge&logo=github)](https://github.com/Fenet254)
+  [![Twitter](https://img.shields.io/badge/Twitter-Fenet_GizaW-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Fenet_GizaW)
+  [![Dev.to](https://img.shields.io/badge/Dev.to-scat_tuni-0A0A23?style=for-the-badge&logo=dev.to)](https://dev.to/scat_tuni)
+  [![Stack Overflow](https://img.shields.io/badge/StackOverflow-fenet--gizaw-FE7A16?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/31347350/fenet-gizaw)
+  [![Medium](https://img.shields.io/badge/Medium-scat_-000000?style=for-the-badge&logo=medium)](https://medium.com/@scat_)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-tuni_scat-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/tuni_scat/)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-simbani011-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/simbani011)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-simbani-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/simbani)
+  [![Reddit](https://img.shields.io/badge/Reddit-Jolly_Smoke_7671-FF4500?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Jolly_Smoke_7671)
+  [![Devpost](https://img.shields.io/badge/Devpost-simbani011-4A148C?style=for-the-badge&logo=devpost)](https://devpost.com/simbani011)
+  [![CodePen](https://img.shields.io/badge/CodePen-Tina--T--the--sans-000000?style=for-the-badge&logo=codepen)](https://codepen.io/Tina-T-the-sans)
+  [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-tuni__-0A0A23?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/tuni_)
+  [![Behance](https://img.shields.io/badge/Behance-tina--t--the--sans-1769FF?style=for-the-badge&logo=behance)](https://www.behance.net/tina-t-the-sans)
+  [![Dribbble](https://img.shields.io/badge/Dribbble-simbani011-EA4C89?style=for-the-badge&logo=dribbble)](https://dribbble.com/simbani011)
+  [![Product Hunt](https://img.shields.io/badge/ProductHunt-scat_tuni-DA552F?style=for-the-badge&logo=producthunt)](https://www.producthunt.com/@scat_tuni)
+  [![Discord](https://img.shields.io/badge/Discord-scat_tuni-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/scat_tuni)
 </p>
 
-<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/fenet-gizaw-b47003341" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
