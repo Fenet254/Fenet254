@@ -79,8 +79,11 @@
 <br>
 <br>
 <br>
-<br>
-<p align="center">## 📫 Connect with Me</p>
+<br><p align="center">
+  <b>📫 Connect with Me</b><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&pause=500&color=4F46E5&width=500&lines=Email+Me:+youremail%40mail.com;LinkedIn:+your-linkedin;Twitter:+@yourhandle" alt="Typing SVG" />
+</p>
+
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/fenet-gizaw-b47003341" target="_blank">
