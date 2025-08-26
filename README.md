@@ -81,12 +81,12 @@
 <br>
 <br><br>
 <br>
+<br>
 <p align="center">
   <b>📫 Connect with Me</b><br><br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=2500&pause=500&color=4F46E5&width=500&lines=LinkedIn:+fenet-gizaw-b47003341;Gmail:+simbani011@gmail.com;GitHub:+Fenet254;Twitter:+Fenet_GizaW;Dev.to:+scat_tuni;Stack+Overflow:+fenet-gizaw;Medium:+scat_;LeetCode:+tuni_scat;HackerRank:+simbani011;Kaggle:+simbani;Reddit:+Jolly_Smoke_7671;Devpost:+simbani011;CodePen:+Tina-T-the-sans;freeCodeCamp:+tuni_;Behance:+tina-t-the-sans;Dribbble:+simbani011;ProductHunt:+scat_tuni;Discord:+scat_tuni" alt="Typing usernames one by one" />
 </p>
-
 
 <br>
 <p align="center">
