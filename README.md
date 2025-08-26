@@ -3,13 +3,9 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" alt="Waving Hand" /> 
   Hi, I'm <span style="color:#00bfff;">Fenet Gizaw</span>
 </h1>
-
-<!-- Subtitle -->
 <h3 align="center">
  💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student
 </h3>
-
-<!-- Profile stats badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fenet254&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/stars/Fenet254?label=Stars&logo=github&color=yellow&style=for-the-badge" alt="Stars"/>
@@ -78,15 +74,12 @@
   <div style="margin-top: 8000px; margin-bottom: 40px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fenet254&theme=github-dark" alt="Activity Graph" style="max-width: 100%; border-radius: 10px;" />
   </div>
-
 </div>
 <br>
 <br>
 <br>
 <br>
 <br>
-
-
 <p align="center">## 📫 Connect with Me</p>
 <br>
 <p align="center">
