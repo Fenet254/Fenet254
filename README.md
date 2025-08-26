@@ -79,9 +79,70 @@
 <br>
 <br>
 <br>
-<br><p align="center">
-  <b>📫 Connect with Me</b><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&pause=500&color=4F46E5&width=500&lines=Email+Me:+youremail%40mail.com;LinkedIn:+your-linkedin;Twitter:+@yourhandle" alt="Typing SVG" />
+<br><br>
+<p align="center">
+  <b>📫 Connect with Me</b><br><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&duration=8000&pause=0&color=4F46E5&width=1200&lines=LinkedIn:+fenet-gizaw-b47003341%20%20|%20%20Gmail:+simbani011@gmail.com%20%20|%20%20GitHub:+Fenet254%20%20|%20%20Twitter:+Fenet_GizaW%20%20|%20%20Dev.to:+scat_tuni%20%20|%20%20Stack+Overflow:+fenet-gizaw%20%20|%20%20Medium:+scat_%20%20|%20%20LeetCode:+tuni_scat%20%20|%20%20HackerRank:+simbani011%20%20|%20%20Kaggle:+simbani%20%20|%20%20Reddit:+Jolly_Smoke_7671%20%20|%20%20Devpost:+simbani011%20%20|%20%20CodePen:+Tina-T-the-sans%20%20|%20%20freeCodeCamp:+tuni_%20%20|%20%20Behance:+tina-t-the-sans%20%20|%20%20Dribbble:+simbani011%20%20|%20%20ProductHunt:+scat_tuni%20%20|%20%20Discord:+scat_tuni" alt="Scrolling usernames" />
+</p>
+
+<br>
+<p align="center">
+  <!-- Keep your static social icons exactly as you already have them -->
+  <a href="https://www.linkedin.com/in/fenet-gizaw-b47003341" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:simbani011@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Fenet254" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/Fenet_GizaW" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/scat_tuni" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/devdotto.svg" width="40" height="40" alt="Dev.to"/>
+  </a>
+  <a href="https://stackoverflow.com/users/31347350/fenet-gizaw" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="40" height="40" alt="Stack Overflow"/>
+  </a>
+  <a href="https://medium.com/@scat_" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="40" height="40" alt="Medium"/>
+  </a>
+  <a href="https://leetcode.com/u/tuni_scat/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" height="40" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/simbani011" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40" height="40" alt="HackerRank"/>
+  </a>
+  <a href="https://www.kaggle.com/simbani" target="_blank">
+    <img src="https://img.icons8.com/windows/32/000000/kaggle.png" width="40" height="40" alt="Kaggle"/>
+  </a>
+  <a href="https://www.reddit.com/user/Jolly_Smoke_7671" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/reddit.png" width="40" height="40" alt="Reddit"/>
+  </a>
+  <a href="https://devpost.com/simbani011?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/devpost.png" width="40" height="40" alt="Devpost"/>
+  </a>
+  <a href="https://codepen.io/Tina-T-the-sans" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/codepen.png" width="40" height="40" alt="CodePen"/>
+  </a>
+  <a href="https://www.freecodecamp.org/tuni_" target="_blank">
+    <img src="https://cdn.simpleicons.org/freecodecamp/0A0A23" width="40" height="40" alt="freeCodeCamp"/>
+  </a>
+  <a href="https://www.behance.net/tina-t-the-sans" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/behance.png" width="40" height="40" alt="Behance"/>
+  </a>
+  <a href="https://dribbble.com/simbani011" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/dribbble.png" width="40" height="40" alt="Dribbble"/>
+  </a>
+  <a href="https://www.producthunt.com/@scat_tuni" target="_blank">
+    <img src="https://cdn.simpleicons.org/producthunt/DA552F" width="40" height="40" alt="Product Hunt"/>
+  </a>
+  <a href="https://discord.com/users/scat_tuni" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/discord--v2.png" width="40" height="40" alt="Discord"/>
+  </a>
 </p>
 
 <br>
