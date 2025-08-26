@@ -53,19 +53,18 @@
 </p>
 <br>
 <br>
-<div align="center" >
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; ">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="stats" style="width: 350px; height: 220px; object-fit: contain;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 350px; height: 220px; object-fit: contain;" />
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(2, 220px); gap: 0; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="Stats" style="width: 220px; height: 220px; object-fit: cover;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 220px; height: 220px; object-fit: cover;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" alt="Stats" style="width: 220px; height: 220px; object-fit: cover;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical" alt="Top Languages by Repo" style="width: 220px; height: 220px; object-fit: cover;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical" alt="Most Commit Language" style="width: 220px; height: 220px; object-fit: cover;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" alt="Commits per Hour" style="width: 220px; height: 220px; object-fit: cover;" />
   </div>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" alt="Stats" style="width: 350px; height: 220px; object-fit: contain;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical" alt="Top Languages by Repo" style="width: 350px; height: 220px; object-fit: contain;" />
-  </div>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; ">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical" alt="Most Commit Language" style="width: 350px; height: 220px; object-fit: contain;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" alt="Commits per Hour" style="width: 350px; height: 220px; object-fit: contain;" />
-  </div>
+</div>
+
+
 <br>
 <br>
 <br>
