@@ -53,6 +53,7 @@
 </p>
 <br>
 <br>
+<div align="center">
 <div style="display: flex; justify-content: center; flex-wrap: wrap; ">
   <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="stats" style="width: 350px; height: 220px; object-fit: contain;" />
   <img src="https://streak-stats.demolab.com?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 350px; height: 220px; object-fit: contain;" />
@@ -66,7 +67,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical" alt="Most Commit Language" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" alt="Commits per Hour" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
-
+</div>
 
 
 <br>
