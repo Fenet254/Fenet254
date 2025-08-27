@@ -53,11 +53,11 @@
 </p>
 <br>
 <br>
-<div align="center" >
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; ">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="stats" style="width: 350px; height: 220px; object-fit: contain;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 350px; height: 220px; object-fit: contain;" />
-  </div>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; ">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="stats" style="width: 350px; height: 220px; object-fit: contain;" />
+  <img src="https://streak-stats.demolab.com?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 350px; height: 220px; object-fit: contain;" />
+</div>
+
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" alt="Stats" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical" alt="Top Languages by Repo" style="width: 350px; height: 220px; object-fit: contain;" />
@@ -85,7 +85,7 @@
 <br>
 <p align="center">
   <span style="font-size:30px; background: linear-gradient(90deg, #4F46E5, #9333EA); -webkit-background-clip: text; color: transparent;">
-    ✨📫 Connect with Me ✨
+    📫 Connect with Me 
   </span>
   <br>
   <br>
