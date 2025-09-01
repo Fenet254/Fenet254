@@ -19,8 +19,6 @@
 <br>
 <br>
 
-
-
  🚀 Tech Stack 
 
 ### 💻 Languages & Frameworks 
@@ -55,7 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" alt="Google Colab" width="50" height="50"/>
-
 </p>
 <br>
 <br>
