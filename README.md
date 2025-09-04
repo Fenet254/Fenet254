@@ -148,6 +148,7 @@
     <img src="https://cdn.simpleicons.org/producthunt/DA552F" width="40" height="40" alt="Product Hunt"/>
   </a>
   <a href="https://discord.com/users/scat_tuni" target="_blank">
+
     <img src="https://img.icons8.com/color/48/000000/discord--v2.png" width="40" height="40" alt="Discord"/>
   </a>
 </p>
