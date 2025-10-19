@@ -4,7 +4,7 @@
   Hi, I'm <span style="color:#00bfff;">Fenet Gizaw</span>
 </h1>
 <h3 align="center">
- 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 Software Engineering Student
+ Full-Stack Developer | AI/ML Enthusiast | 🎓 Software Engineering Student
 </h3>
 <p align="center">
 
