@@ -20,9 +20,9 @@
 <br>
 <br>
 
-      Tech Stack 
+      <p>Tech Stack </p>
 
-### 💻 Languages & Frameworks 
+### Languages & Frameworks 
 <p>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
 </p>  
 <br>
- 🤖 AI & Machine Learning  
+   AI & Machine Learning  
 <p>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>  
@@ -45,7 +45,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="scikit-learn" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" alt="Keras" width="50" height="50"/>
   <br>
-🛠 Tools & Platforms  
+   Tools & Platforms  
   <br>
   <br>
 <p> 
@@ -89,7 +89,7 @@
 <br>
 <p align="center">
   <span style="font-size:30px; background: linear-gradient(90deg, #4F46E5, #9333EA); -webkit-background-clip: text; color: transparent;">
-    📫 Connect with Me 
+      Connect with Me 
   </span>
   <br>
   <br align="center" >
