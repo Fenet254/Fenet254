@@ -20,7 +20,8 @@
 <br>
 <br>
 
-      <p>Tech Stack </p>
+
+Tech Stack
 
 ### Languages & Frameworks 
 <p>  
