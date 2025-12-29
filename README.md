@@ -58,11 +58,10 @@ Tech Stack
 </p>
 <br>
 <br>
-<div align="center">
-<div style="display: flex; justify-content: center; flex-wrap: wrap; ">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="stats" style="width: 350px; height: 240px; object-fit: contain;" />
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 350px; height: 240px; object-fit: contain;" />
+<div align="center"style="margin-top: 40px; margin-bottom: 40px;">
+
 </div>
+
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" alt="Stats" style="width: 350px; height: 220px; object-fit: contain;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical" alt="Top Languages by Repo" style="width: 350px; height: 220px; object-fit: contain;" />
