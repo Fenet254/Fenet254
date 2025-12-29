@@ -58,7 +58,8 @@ Tech Stack
 </p>
 <br>
 <br>
-<div align="center"style="margin-top: 40px; margin-bottom: 40px;">
+<div align="center">
+<div style="margin-top: 40px; margin-bottom: 40px;">
 
 </div>
 
@@ -71,7 +72,7 @@ Tech Stack
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" alt="Commits per Hour" style="width: 350px; height: 220px; object-fit: contain;" />
   </div>
 </div>
-
+</div>
 
 <br>
 <br>
