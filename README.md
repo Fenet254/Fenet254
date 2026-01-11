@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" alt="Waving Hand" /> 
   Hi, I'm <span style="color:#00bfff;">Fenet Gizaw</span>
@@ -59,35 +58,29 @@ Tech Stack
 <br>
 <br>
 <div align="center">
-<div style="margin-top: 40px; margin-bottom: 40px;">
-
-</div>
-
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fenet254&theme=radical" alt="Stats" style="width: 350px; height: 220px; object-fit: contain;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fenet254&theme=radical" alt="Top Languages by Repo" style="width: 350px; height: 220px; object-fit: contain;" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenet254&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;" />
   </div>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; ">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fenet254&theme=radical" alt="Most Commit Language" style="width: 350px; height: 220px; object-fit: contain;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fenet254&theme=radical" alt="Commits per Hour" style="width: 350px; height: 220px; object-fit: contain;" />
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 48%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=radical&row=2&column=3" alt="GitHub Trophies" style="width: 48%;" />
   </div>
 </div>
-</div>
 
 <br>
 <br>
-<br>
-<br>
-<br>
-  <div style="margin-top: 8000px; margin-bottom: 40px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fenet254&theme=github-dark" alt="Activity Graph" style="max-width: 100%; border-radius: 10px;" />
-  </div>
+
+<div style="margin-top: 40px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fenet254&theme=github-dark&height=300" alt="Activity Graph" style="max-width: 100%; border-radius: 10px;" />
 </div>
 <br>
 <br>
 <br>
-
 <br>
+<br>
+
 <p align="center">
   <span style="font-size:30px; background: linear-gradient(90deg, #4F46E5, #9333EA); -webkit-background-clip: text; color: transparent;">
       Connect with Me 
@@ -154,4 +147,3 @@ Tech Stack
     <img src="https://img.icons8.com/color/48/000000/discord--v2.png" width="40" height="40" alt="Discord"/>
   </a>
 </p>
-
