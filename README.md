@@ -57,25 +57,61 @@ Tech Stack
 </p>
 <br>
 <br>
+
+<!-- GitHub Stats Section - Using GitHub's own API for better reliability -->
 <div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenet254&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;" />
+  <h2>📊 GitHub Stats</h2>
+  
+  <!-- Simple Stats Cards -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
+    <!-- Stats Card 1 -->
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; width: 300px; color: white;">
+      <h3>Total Contributions</h3>
+      <img src="https://ghchart.rshah.org/Fenet254" alt="Fenet's GitHub Contributions" />
+    </div>
+    
+    <!-- Stats Card 2 -->
+    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; width: 300px; color: white;">
+      <h3>GitHub Profile</h3>
+      <p>Repositories: <strong>Loading...</strong></p>
+      <p>Followers: <strong>Loading...</strong></p>
+      <p>Stars: <strong>Loading...</strong></p>
+    </div>
   </div>
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" style="width: 48%;" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Fenet254&theme=radical&row=2&column=3" alt="GitHub Trophies" style="width: 48%;" />
+  <!-- Alternative Graph using different service -->
+  <div style="margin: 30px 0;">
+    <h3>Contribution Activity</h3>
+    <!-- This uses a different service that might work better -->
+    <img src="https://activity-graph.herokuapp.com/graph?username=Fenet254&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Contribution Graph" style="width: 100%; max-width: 800px;" />
   </div>
 </div>
 
 <br>
 <br>
 
-<div style="margin-top: 40px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fenet254&theme=github-dark&height=300" alt="Activity Graph" style="max-width: 100%; border-radius: 10px;" />
+<!-- Simple Stats using shields.io -->
+<div align="center">
+  <h2>🏆 GitHub Achievements</h2>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fenet254&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenet254&layout=compact&theme=radical" alt="Top Languages" />
+  </div>
+  
+  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenet254&theme=radical" alt="GitHub Streak" />
+  </div>
 </div>
+
 <br>
+<br>
+
+<!-- Note about graphs -->
+<div align="center" style="background: #f0f0f0; padding: 15px; border-radius: 10px; margin: 30px 0;">
+  <p><strong>Note:</strong> If graphs don't load immediately, they might take a few moments to appear or refresh the page.</p>
+</div>
+
 <br>
 <br>
 <br>
@@ -141,7 +177,7 @@ Tech Stack
     <img src="https://img.icons8.com/color/48/000000/dribbble.png" width="40" height="40" alt="Dribbble"/>
   </a>
   <a href="https://www.producthunt.com/@scat_tuni" target="_blank">
-    <img src="https://cdn.simpleicons.org/producthunt/DA552F" width="40" height="40" alt="Product Hunt"/>
+    <img src="https://cdn.simple-icons.org/producthunt/DA552F" width="40" height="40" alt="Product Hunt"/>
   </a>
   <a href="https://discord.com/users/scat_tuni" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord--v2.png" width="40" height="40" alt="Discord"/>
